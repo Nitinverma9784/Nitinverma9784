@@ -101,9 +101,9 @@ const nitin = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinvermaaa/nitinvermaaa/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitinvermaaa/nitinvermaaa/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/nitinvermaaa/nitinvermaaa/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nitinverma9784/Nitinverma9784/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nitinverma9784/Nitinverma9784/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Nitinverma9784/Nitinverma9784/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 > 🔧 To enable the live snake — add a GitHub Actions workflow in your profile repo:
