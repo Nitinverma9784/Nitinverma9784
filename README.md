@@ -8,14 +8,13 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitinvermaaa/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitinvermaaa)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nitinverma9784)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2e86ab?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
 <br/>
 
-<!-- SUBTLE WAVE DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2e86ab,100:0d1b2a&height=4" width="100%"/>
 
 <br/>
@@ -32,7 +31,7 @@ const nitin = {
   database : ["MongoDB", "Supabase", "PostgreSQL", "Redis"],
   building : "Products with real-world utility 🚀",
   learning : ["Edge Computing", "Serverless", "System Design"],
-  funFact  : "I turn coffee ☕ into scalable systems",
+  funFact  : "I turn chai ☕ into scalable systems",
 };
 ```
 
@@ -96,6 +95,28 @@ const nitin = {
 
 <br/>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nitinverma9784&show_icons=true&hide_border=true&bg_color=0d1b2a&title_color=2e86ab&icon_color=61DAFB&text_color=e0f7ff" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinverma9784&layout=compact&hide_border=true&bg_color=0d1b2a&title_color=2e86ab&text_color=e0f7ff" height="175"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nitinverma9784&theme=transparent&hide_border=true&background=0d1b2a&ring=2e86ab&fire=61DAFB&currStreakLabel=2e86ab&sideLabels=e0f7ff&dates=8892a8&currStreakNum=e0f7ff&sideNums=e0f7ff" width="58%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1b2a,100:2e86ab&height=4" width="100%"/>
+
+<br/>
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -105,9 +126,6 @@ const nitin = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nitinverma9784/Nitinverma9784/output/github-contribution-grid-snake.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Nitinverma9784/Nitinverma9784/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
-
-> 🔧 To enable the live snake — add a GitHub Actions workflow in your profile repo:
-> `.github/workflows/snake.yml` using `Platane/snk@v3`
 
 </div>
 
@@ -139,7 +157,7 @@ const nitin = {
 
 <br/>
 
-<!-- FOOTER WAVE — LAKE RIPPLE -->
+<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2e86ab,50:1a3a5c,100:0d1b2a&height=140&section=footer&reversal=true&animation=fadeIn" width="100%"/>
 
 <div align="center">
